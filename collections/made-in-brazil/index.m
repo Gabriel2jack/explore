@@ -1,5 +1,4 @@
----
-items:
+ms:
   - clappr/clappr
   - devhubapp/devhub
   - dracula/dracula-theme
